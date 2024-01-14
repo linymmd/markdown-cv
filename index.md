@@ -3,7 +3,7 @@ layout: cv
 title: Yuan-Mao Lin's CV
 ---
 # Yuan-Mao Lin, MD
-Diagnostic and Interventional Radiologist.
+Diagnostic and Interventional Radiologist
 
 <div id="webaddress">
 <a href="linymmd@gmail.com">linymmd@gmail.com</a>
